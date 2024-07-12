@@ -5,8 +5,8 @@ Creating MCQs from your PDFs by leveraging LLMs.
 Exminer aims to ease the tedious process of test creation. It utilizes RAG-based LLMs to generate questions on the topics you specify from the PDFs you provide.
 
 ## What Can It Do Now?
-Processes the PDF and saves it as chunks into a database.
-Generates 5 MCQs based on the specified topic when a user enters a query.
++ Processes the PDF and saves it as chunks into a database.
++ Generates 5 MCQs based on the specified topic when a user enters a query.
 
 ## TO-DO
 - [ ] Allow users to choose the number of questions.
